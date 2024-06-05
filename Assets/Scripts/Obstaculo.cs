@@ -24,8 +24,8 @@ public class Obstaculo : MonoBehaviour {
         this.Destruir();
     }
 
-    public void Destruir()
+     public void Destruir()
     {
-        Destroy(this.gameObject);
+       Destroy(this.gameObject);
     }
 }
