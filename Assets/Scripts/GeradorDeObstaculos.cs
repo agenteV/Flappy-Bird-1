@@ -20,6 +20,7 @@ public class GeradorDeObstaculos : MonoBehaviour {
         //para ser gerado cada objeto, assim ele pode começar a contagem regressiva
         this.cronometro = this.tempoParaGerar;    
     }
+    
 
     void Update () {
 	      // O cronometro será diminuido de acordo com o tempo que passou de uma chamada
