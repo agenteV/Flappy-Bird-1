@@ -155,8 +155,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PanelSettings: {fileID: 11400000, guid: 10ddd98de3eab3543a645795e8b3faf1, type: 2}
   m_ParentUI: {fileID: 0}
-  sourceAsset: {fileID: 9197481963319205126, guid: ed67fc9be384ec44689201b67acfaa0d,
-    type: 3}
+  sourceAsset: {fileID: 9197481963319205126, guid: ed67fc9be384ec44689201b67acfaa0d, type: 3}
   m_SortingOrder: 0
 --- !u!4 &328252526
 Transform:
@@ -182,7 +181,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 328252524}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c3863bc242bfd6644b3f60791e36f200, type: 3}
+  m_Script: {fileID: 11500000, guid: 67331ba57b9ba294aad5e4bde5a4072f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1938530967
